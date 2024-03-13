@@ -1,6 +1,6 @@
 {
   "productName": "il-bello-del-fare-info",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "identifier": "org.thundernetwork.il-bello-del-fare-info",
   "build": {
     "beforeDevCommand": "yarn dev",
