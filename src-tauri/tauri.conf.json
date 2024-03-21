@@ -1,6 +1,6 @@
 {
-  "productName": "il-bello-del-fare-info",
-  "version": "0.0.0",
+  "productName": "Il Bello Del Fare Info",
+  "version": "1.0.0",
   "identifier": "org.thundernetwork.il-bello-del-fare-info",
   "build": {
     "beforeDevCommand": "yarn dev",
@@ -12,7 +12,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "il-bello-del-fare-info",
+        "title": "Il Bello Del Fare Info",
         "width": 800,
         "height": 600
       }
