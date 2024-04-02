@@ -57,6 +57,7 @@ jobs:
 
     - name: build
       run: |
+        cargo install tauri-cli
         cargo tauri build
 
     # The artifacts output can now be used to upload the artifacts
