@@ -81,7 +81,7 @@ jobs:
       - name: 'create release'
         uses: softprops/action-gh-release@master
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+          GITHUB_TOKEN: '${{ secrets.G_TOKEN }}'
         with:
           draft: false
           files: ./artifacts/**/*
